@@ -1,0 +1,8 @@
+1. Начало проекта создаем через start.spring.io
+2. Cборщик проекта Maven.
+3. Добавляем зависимости:
+Lombok
+Spring WEB
+Spring Data JPA
+MySQL Driver
+Thymeleaf
